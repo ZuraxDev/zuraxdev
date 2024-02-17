@@ -8,7 +8,7 @@ Software Engineer
 * 🚀  I'm currently working on [Xaruz Discord Bot](http://xaruz.xyz/)
 * 🧠  I'm learning Java and Tensorflow
 * 🤝  I'm open to collaborating on mc.XedomCraft.eu
-* 👀  My Space [zuraxdev.spaxe](https://zuraxdev.space)
+* 👀  My Space [zuraxdev.space](https://zuraxdev.space)
 
 ### Skills
 
